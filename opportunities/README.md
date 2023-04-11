@@ -5,6 +5,7 @@
 - Outreachy
 - GSoD
 - TAGCS-Mentoring-WG
+- Github Octernship
 
 Open source projects
 - [CNCF Landscape](https://github.com/cncf/landscape)
